@@ -56,4 +56,4 @@ npm run dev
 
 ## 🚀 Live Demo
 
-*(Deployment link will be added here)*
+https://hotel-booking-frontend-assessment.vercel.app/
